@@ -27,7 +27,6 @@ My research interest lies at the intersection of Image Processing, Computer Visi
 
 * **Songnan Lin**, Jiawei Zhang, Jinshan Pan, Yicun Liu, Yongtian Wang, Jing Chen, and Jimmy Ren, "Learning to Deblur Face Images via Sketch Synthesis", in the Proceedings of AAAI Conference on Artificial Intelligence (AAAI), 2020.
 [[paper](https://aaai.org/ojs/index.php/AAAI/article/view/6818/6672)]
-% [[github](https://github.com/Lynn0306/Learning-to-Deblur-Face-Images-via-Sketch-Synthesis)]
 
 * Xufu Mu, Jing Chen, Zhen Leng, **Songnan Lin**, and Ningsheng Huang, "Scale Estimation and Refinement in Monocular Visual-Inertial SLAM System", International Conference on Image and Graphics (ICIG), 2017.
 [[paper](https://link.springer.com/chapter/10.1007%2F978-3-319-71607-7_47)]
