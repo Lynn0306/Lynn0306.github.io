@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+---
+layout: default
+title: Songnan Lin
+---
 
-You can use the [editor on GitHub](https://github.com/Lynn0306/Lynn0306.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Biography
 
-### Markdown
+I'm currently a Ph.D. student at SOP in Beijing Institute of Technology, China, supervised by Prof. Yongtian Wang.
+Previously, I received my B.Eng. degree in Department of Precision Instrument at Tsinghua University in 2015. I have also been a research intern at SenseTime from 2018 to 2020.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Research Insterest
 
-```markdown
-Syntax highlighted code block
+My research interest lies at the intersection of Image Processing, Computer Vision, and Deep Learning. In particular, my work focuses on stereo vision, image/video restoration, and high-speed video reconstruction with event cameras. 
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Publications
 
-1. Numbered
-2. List
+* **Songnan Lin**, Jiawei Zhang, Jing Chen, Yongtian Wang, Yicun Liu, and Jimmy Ren, "Cross-spectral Stereo Matching for Facial Disparity Estimation in the Dark", Computer Vision and Image Understanding (CVIU), 2020.
+[[paper](https://doi.org/10.1016/j.cviu.2020.103046)]
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+* **Songnan Lin**, Jiawei Zhang, Jinshan Pan, Zhe Jiang, Dongqing Zou, Yongtian Wang, Jing Chen, and Jimmy Ren, "Learning Event-driven Video Deblurring and Interpolation", in the Proceedings of European Conference on Computer Vision (ECCV), 2020.
+[[paper](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123530681.pdf)]
+[[github](https://github.com/Lynn0306/LEDVDI)]
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+* **Songnan Lin**, Jiawei Zhang, Jinshan Pan, Yicun Liu, Yongtian Wang, Jing Chen, and Jimmy Ren, "Learning to Deblur Face Images via Sketch Synthesis", in the Proceedings of AAAI Conference on Artificial Intelligence (AAAI), 2020.
+[[paper](https://aaai.org/ojs/index.php/AAAI/article/view/6818/6672)]
+% [[github](https://github.com/Lynn0306/Learning-to-Deblur-Face-Images-via-Sketch-Synthesis)]
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Lynn0306/Lynn0306.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+* Xufu Mu, Jing Chen, Zhen Leng, **Songnan Lin**, and Ningsheng Huang, "Scale Estimation and Refinement in Monocular Visual-Inertial SLAM System", International Conference on Image and Graphics (ICIG), 2017.
+[[paper](https://link.springer.com/chapter/10.1007%2F978-3-319-71607-7_47)]
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
