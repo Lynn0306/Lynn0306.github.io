@@ -31,3 +31,4 @@ My research interest lies at the intersection of Image Processing, Computer Visi
 * Xufu Mu, Jing Chen, Zhen Leng, **Songnan Lin**, and Ningsheng Huang, "Scale Estimation and Refinement in Monocular Visual-Inertial SLAM System", International Conference on Image and Graphics (ICIG), 2017.
 [[paper](https://link.springer.com/chapter/10.1007%2F978-3-319-71607-7_47)]
 
+* Zhen Leng, Jing Chen and **Songnan Lin**, "Learning Instance Motion Segmentation with Geometric Embedding", IEEE Access, 2021.
