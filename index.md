@@ -16,6 +16,9 @@ My research interest lies at the intersection of Image Processing, Computer Visi
 
 ### Publications
 
+* **Songnan Lin**, Ye Ma, Zhenhua Guo, and Bihan Wen, "DVS-Voltmeter: Stochastic Process-based Event Simulator for Dynamic Vision Sensors", in the Proceedings of European Conference on Computer Vision (ECCV), 2022.
+[[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670571.pdf)]
+
 * **Songnan Lin**, Jiawei Zhang, Jing Chen, Yongtian Wang, Yicun Liu, and Jimmy Ren, "Cross-spectral Stereo Matching for Facial Disparity Estimation in the Dark", Computer Vision and Image Understanding (CVIU), 2020.
 [[paper](https://doi.org/10.1016/j.cviu.2020.103046)]
 
